@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="nameKaushalVala.svg" alt="Marton Lederer" />
+  <img src="nameKaushalVala.svg" alt="Kaushal vala" />
 </h1>
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "about_me.gif" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="Right_Side.gif" width = 250px></picture>
 
 <br><br>
 
@@ -14,7 +14,7 @@
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit [MY LINKEDIN PROFILE](https://www.linkedin.com/in/kaushal-vala-0b2818285/).
 <br>
- <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+ <picture> <img src="competitive_programming_profile.png" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/kaushalvala"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
@@ -28,7 +28,7 @@
 - 💽 MySQL, SQL, Mongo
 + a lot more :D
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="Connect-with-me.gif" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:kaushalvala1382004@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/kaushalvala"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
