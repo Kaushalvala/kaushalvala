@@ -8,7 +8,7 @@
 
 <br><br>
 
-- 🎓 I am a `Pre-Final year student` in Computer Science & Engineering at [Nirma University](https://nirmauni.ac.in/).
+- 🎓 I am a `Junior` in Computer Science & Engineering at [Nirma University](https://nirmauni.ac.in/).
 - :technologist: I’m passionate about leveraging Software to solve `Problems`.
 - :computer: I am a competitive programmer at `Codeforces`,  `Leetcode` and  `Codechef`.
 - :nerd_face: Always `learning new things`.
